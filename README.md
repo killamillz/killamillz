@@ -1,63 +1,49 @@
-# 🌟 Alozie Ogochukwu Bright
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![Header GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+###
 
-Hi there! 👋 I'm Alozie Ogochukwu Bright, a **Mid-Level Software Developer**, **Database Analyst**, and **Problem Solver** with a passion for crafting efficient and elegant solutions. I bring **over 4 years** of experience in software development, mathematics, and data analytics to the table. 🎯
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🚀 About Me
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🎓 BSc. in **Pure and Applied Mathematics** from the Federal University of Oye-Ekiti, Nigeria.  
-- 💻 Full-stack development wizardry with **React**, **Node.js**, **Express.js**, **GraphQL**, and **TypeScript**.  
-- 🎨 Skilled in modern styling with **Tailwind CSS** and creating user-friendly, responsive designs.  
-- 🔧 Experienced in developing and optimizing **web applications** and enhancing **website performance**.  
-- 🌟 I'm ambitious, goal-oriented, and always ready to learn new tools and technologies.  
+###
 
-When I'm not coding, you might find me playing football, binging youtube, crypto trading, or solving puzzles 🧩.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Here's what I work with:
+###
 
-### Languages  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<br clear="both">
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
----
-
-## 🏆 Achievements
-
-✨ **Key Contributions**:  
-- Designed and implemented a **Ticket Management Module**, enhancing efficiency and customer satisfaction.  
-- Streamlined **prospect verification workflows** in the **DOMS platform**, reducing bottlenecks.  
-- Developed robust **React and Node.js components** for managing notifications and vehicle pick-up processes.  
-- Enhanced UI/UX by integrating **Tailwind CSS** for responsive and visually appealing designs.  
-- Implemented **GraphQL APIs** to efficiently manage data communication between client and server.  
-
-✨ **Recognized Skills**:  
-- Problem-solving prowess and analytical thinking.  
-- Quick learner and adept at adopting new technologies.  
-- Strong communication and team collaboration.
-
-✨ **Fun Milestones**:  
-- Trained myself in **crypto trading** alongside a full-time software career.  
-- Tackled comple
+###
