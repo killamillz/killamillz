@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Solidity and React native,**
 
-- 👯 I’m looking to collaborate on [Isabi work](https://github.com/killamillz/isabi_work_app)
+- 👯 I’m looking to collaborate on [Waiter](https://github.com/killamillz/waiter)
 
-- 🤝 I’m looking for help with [Waiter](https://github.com/killamillz/waiter)
+- 🤝 I’m looking for help with [Everything Doozie](https://github.com/killamillz/everything-doozie)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nu-sable-22.vercel.app/](https://portfolio-nu-sable-22.vercel.app/)
 
